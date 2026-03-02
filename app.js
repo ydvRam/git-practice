@@ -5,3 +5,7 @@ function login() {
 }
 
 login();
+console.log("Hello from features.signup branch");
+function signup(){
+  console.log("User Sign up...");
+}
